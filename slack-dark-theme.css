@@ -20,7 +20,7 @@
    --scrollbar-border: var(--primary);
 }
 
-/*
+
 #msgs_scroller_div::-webkit-scrollbar-track, #client_body::before, .client_container,
 #search_terms, #client_body, #footer, ts-message, .channel_header, ts-jumper ts-jumper-container,
 ts-jumper input[type="text"],
@@ -260,4 +260,3 @@ ts-message a.timestamp{
 #team_menu, #quick_switcher_btn, #team_menu_overlay, #col_channels_overlay {
    border-color: var(--border-bright) !important;
 }
-*/
